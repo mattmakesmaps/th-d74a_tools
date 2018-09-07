@@ -1,0 +1,18 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,W7BPD,145.230000,-,0.600000,Tone,103.5,88.5,023,NN,FM,5.00,,"Kendall, Sumas Mountain",,,,
+1,WC7SO,146.450000,+,0.600000,,88.5,88.5,023,NN,DV,5.00,,"Bellingham, Lookout Mtn",CQCQCQ,,,0
+2,AF7PR,146.500000,-,0.600000,,88.5,88.5,023,NN,DIG,5.00,,"Bellingham, Lookout Mtn",,,,
+3,K7SKW,147.160000,+,0.600000,Tone,103.5,103.5,023,NN,Auto,5.00,,"Bellingham, King Mountain",,,,
+4,NC7Q,224.160000,-,1.600000,Tone,156.7,88.5,023,NN,FM,5.00,,"Bellingham, Lookout Mountain",,,,
+5,N7FYU,224.860000,-,1.600000,Tone,103.5,88.5,023,NN,FM,5.00,,"Bellingham, King Mountain",,,,
+6,W7BPD,440.375000,+,5.000000,Tone,107.2,107.2,023,NN,FM,5.00,,Blaine,,,,
+7,W7BPD,440.375000,+,5.000000,Tone,131.8,131.8,023,NN,FM,5.00,,"Kendall, Sumas Mountain",,,,
+8,WC7SO,440.475000,+,5.000000,,88.5,88.5,023,NN,DV,5.00,,"Bellingham, Lookout Mountain",CQCQCQ,,,0
+9,AF7PR,440.925000,+,5.000000,,88.5,88.5,023,NN,DIG,5.00,,"Bellingham, Lookout Mountain",,,,
+10,N7FYU,441.925000,+,5.000000,Tone,103.5,88.5,023,NN,FM,5.00,,Bellingham,,,,
+11,NC7Q,442.250000,+,5.000000,Tone,156.7,156.7,023,NN,FM,5.00,,"Bellingham, Lookout Mountain",,,,
+12,WA7SV,442.750000,+,5.000000,Tone,103.5,103.5,023,NN,FM,5.00,,"Bellingham, Sudden Valley",,,,
+13,NC7Q,442.825000,+,5.000000,Tone,156.7,88.5,023,NN,FM,5.00,,Ferndale,,,,
+14,KJ1U,443.300000,+,5.000000,Tone,100.0,88.5,023,NN,FM,5.00,,Point Roberts,,,,
+15,K7SKW,443.650000,+,5.000000,Tone,103.5,103.5,023,NN,Auto,5.00,,"Bellingham, King Mountain",,,,
+16,K7SKW,443.750000,+,5.000000,Tone,103.5,103.5,023,NN,FM,5.00,,"Bellingham, Squalicum Mountain",,,,

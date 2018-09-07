@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,W7PSE,441.725000,+,5.000000,Tone,103.5,88.5,023,NN,FM,5.00,,"Anacortes, Mt Erie",,,,
+1,W7UMH,442.400000,+,5.000000,Tone,107.2,107.2,023,NN,FM,5.00,,"Lyman, Lyman Hill",,,,
+2,KG7OCP,443.350000,+,5.000000,Tone,100.0,88.5,023,NN,Auto,5.00,,"Anacortes, 29th St Water Tank",,,,
+3,K7OET,444.350000,+,5.000000,Tone,100.0,88.5,023,NN,FM,5.00,,"Mount Vernon, Cultus Mountain",,,,
+4,WA7ZUS,444.500000,+,5.000000,Tone,103.5,103.5,023,NN,P25,5.00,,"Lyman, Lyman Hill",,,,
+5,NC7Q,444.625000,+,5.000000,Tone,103.5,88.5,023,NN,FM,5.00,,"Mount Vernon, Cultus Mountain ",,,,
+6,W7MBY,223.860000,-,1.600000,Tone,103.5,88.5,023,NN,FM,5.00,,"Lyman, Lyman Hill",,,,
+7,N7RIG,224.780000,-,1.600000,Tone,103.5,103.5,023,NN,FM,5.00,,"Lyman, Lyman Hill",,,,
+8,N7GDE,145.190000,-,0.600000,Tone,127.3,88.5,023,NN,FM,5.00,,"Lyman, Lyman Hill",,,,
