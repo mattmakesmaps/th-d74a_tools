@@ -28,6 +28,12 @@ def chirp_to_kenwood(chirp_row):
         if (chirp_name == 'Tone' and chirp_row[chirp_name] == 'Tone'):
             out_row[kenwood_name] = 'T'
     
+    # Calculate Tx Freq. based on Offset and Duplex
+    if out_row['Shift/Split'] == '-':
+        out_row['Tx Freq.'] = round(float(out_row['Rx Freq.']) - float(out_row['Offset']), 2)
+    elif out_row['Shift/Split'] == '+':
+        out_row['Tx Freq.'] = round(float(out_row['Rx Freq.']) + float(out_row['Offset']), 2)
+    
     return out_row
 
 

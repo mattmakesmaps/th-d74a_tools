@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,VE7RBY,145.350000,-,0.600000,Tone,127.3,127.3,,NN,FM,,"Mt. Seymour - VE7RBY",,,,
+2,VE7SUN,147.340000,+,0.600000,Tone,107.2,107.2,,NN,FM,,"Delta Amateur Radio Society",,,,
+3,VE7RNS,147.260000,+,0.600000,,,,,NN,FM,,"Seymour Mtn - VE7RNS",,,,
+4,VE7RLY,147.380000,+,0.600000,Tone,110.9,110.9,,NN,FM,,"Langley ARC",,,,
+5,VE7MFS,145.310000,-,0.600000,Tone,127.3,127.3,,NN,FM,,"Coquitlam, BC",,,,
+6,VE7RPT,146.940000,-,0.600000,Tone,136.5,136.5,,NN,FM,,"Mt. Seymour - VE7RPT",,,,
